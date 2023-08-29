@@ -1,1 +1,1 @@
- My first readme
+yetty will be a good software developer
